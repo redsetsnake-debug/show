@@ -1,0 +1,10 @@
+{
+  "name": "Sonic Pulsar",
+  "description": "A professional-grade music-reactive visual system that transforms audio frequencies into immersive, performative digital art.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
